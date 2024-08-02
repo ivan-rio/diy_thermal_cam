@@ -7,11 +7,11 @@
 
 DIY Thermal Camera based on <a href="https://www.thingiverse.com/thing:2799023">this project</a>
 
-<br>
 
-## There is a <A href="https://ivan-rio.github.io/diy_thermal_cam/webinstall/">Web Installer for ESP8266</a>
+### There is a <a href="https://ivan-rio.github.io/diy_thermal_cam/webinstall/">Web Installer for ESP8266</a>
 
-<br>
+
+### <a href="https://www.thingiverse.com/thing:6718047">STL Housing Models</a>
 
 
 
@@ -21,7 +21,8 @@ DIY Thermal Camera based on <a href="https://www.thingiverse.com/thing:2799023">
 <br>🔶AMG8833 ➡ https://ali.ski/ppwwO
 <br>🔶ILI9341 2.8" Display ➡ https://ali.ski/Ag8M2p
 <br>
-<hr>
+
+## 
 
 ![](/images/img-preview.jpg)
 
