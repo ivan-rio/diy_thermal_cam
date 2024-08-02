@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<head>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+    * {
+      font-family: 'Roboto';
+    }
+
+    body {
+      background-color: #181a1b;
+      color: white;
+	  text-align: center;
+	  max-width: 65%;
+	  margin: auto;
+    }
+
+    .main {
+      width: fit-content;
+	  margin-left: auto;
+	  margin-right: auto;
+
+    }
+
+    .main a {
+      color: #26867d;
+    }
+	
+	.center {
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 100%;
+	  max-width: 650px;
+	}
+	.btn {
+	  margin-top: 20px;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 100%;
+	}
+	
+	hr {
+	  border: 1px solid #26867d;
+	}
+	
+	.caption {
+	  width: 100%;
+	  margin: auto;
+	  text-align: left;
+	}
+  </style>
+  <script type="module" src="https://unpkg.com/esp-web-tools@10/dist/web/install-button.js?module"></script>
+</head>
+
+<body>
+<section class="main">
+<h2>DIY Thermal Cam Web Installer</h2>
+<hr>
+<p>
+	Source firmware can be found here  <a href="https://www.thingiverse.com/thing:2799023/files">here</a>
+</p>
+<img src="https://github.com/ivan-rio/diy_thermal_cam/raw/main/images/img-preview.jpg" class="center">
+
+<div class="caption">
+<h3>Install</h3>
+<p>
+Press "Connect" and choose your COM port.
+<br><br>
+If flashing don't starts, try hold "Boot" button on ESP8266 while pressing "Install" button.
+</p>
+</div>
+</section>
+
+<div class="btn">
+<esp-web-install-button
+  manifest="https://ivan-rio.github.io/diy_thermal_cam/webinstall/manifest.json"
+></esp-web-install-button>
+</div>
+</body>

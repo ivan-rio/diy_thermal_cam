@@ -1,0 +1,11 @@
+{
+  "name": "DIY_Thermal_Cam",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        { "path": "thermal_cam_interpolate.ino.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
