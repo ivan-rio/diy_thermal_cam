@@ -1,5 +1,5 @@
 
-<a href="https://www.buymeacoffee.com/oggyrio"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>    <a href="https://youtu.be/Rsudcy0aiGQ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="20px"></a>
+ <a href="https://youtu.be/Rsudcy0aiGQ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="20px"></a>
 
 
 # DIY Thermal Cam
